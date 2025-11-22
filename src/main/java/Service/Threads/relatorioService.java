@@ -18,4 +18,9 @@ public class relatorioService {
 
 		return rr.findAll();
 	}
+	
+	public void gerarRelatorios () {
+		
+		
+	}
 }
